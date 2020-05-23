@@ -8,3 +8,7 @@ Training data is being collecetd from Google news for specific equities based on
 Largest Gainers: http://www.wsj.com/mdc/public/page/2_3021-losecomp-loser-<YYYYMMDD>.html?mod=mdc_pastcalendar
 Largest Losers: http://www.wsj.com/mdc/public/page/2_3021-gaincomp-gaine1r-<YYYYMMDD>.html?mod=mdc_pastcalendar
 ~~~
+
+
+United States Senators Market Activity Disclosures : 
+https://efdsearch.senate.gov/search/
